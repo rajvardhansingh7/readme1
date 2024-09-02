@@ -1,4 +1,3 @@
-# readme1
 # 💫 About Me:
 Hi! I'm a B.Tech student in Electronics and Communication at NIT Jalandhar, with a deep interest in tech. Currently, I'm honing my skills in Data Structures and Algorithms (DSA) while exploring web development. Passionate about solving problems and building cool projects, I'm always eager to learn and contribute to open-source communities.<br><br>Feel free to connect with me or check out my projects!<br><br>
 
